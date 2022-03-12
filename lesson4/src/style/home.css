@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Mulish', sans-serif;
+}
+
+header{
+    
+    height: 43px;
+    padding: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-content{
+    display: flex;
+    align-items: center;
+
+}
+
+.logo-content img{
+    margin-right: 12.89px;
+    margin-left: 123px;
+
+}
+
+.logo-content h1{
+    font-size: 24px;
+    font-weight: 700;
+    font-family: 'Mulish', sans-serif;
+
+}
+
+.navbar ul{
+    display: flex;
+   
+}
+.navbar li{
+    font-size: 18px;
+    font-weight: 400;
+    left: 10.57%;
+    
+
+}
+
+.navbar li:not(:first-child){
+
+    margin-left: 43px;
+    
+}
+
+.navbar li:first-child{
+    
+    font-weight: 700;
+
+}
+
+.navbar li:last-child{
+    margin-right: 81.67px;
+}
+
+
+
+.navbar li a{
+    color: #1F1534;
+}
+
