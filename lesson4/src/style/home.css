@@ -68,3 +68,49 @@ header{
     color: #1F1534;
 }
 
+.conteiner{
+    display: flex;
+    align-items: center;
+    
+}
+
+.h2{
+    font-size: 48px;
+    font-weight: 700;
+    margin-left: 122px;
+    margin-right: 136px;
+    
+    
+ }
+
+ .h2 p{
+     font-weight: 300;
+    font-size: 21px;
+    color: #7D7987;
+    
+    }
+  
+ button{
+    background-color: #458FF6;
+    height: 56px;
+    width: 214.92px;
+    border-radius: 55px;
+    color: #FFFFFF;
+    
+
+}
+
+
+
+
+.section1 img{
+    margin-left: 46%;
+     width: 47%;
+    
+   
+    
+}
+
+
+ 
+    
